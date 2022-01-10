@@ -1,3 +1,8 @@
+import csv
+import json
+import requests
+
+
 def write_date_to_csv():
     restaurants = "[]"
     response = "hugahuga"

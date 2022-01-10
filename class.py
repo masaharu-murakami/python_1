@@ -1,4 +1,3 @@
-
 class Car:
     class_name = "Car"
   def __init__(self):
