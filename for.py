@@ -20,5 +20,3 @@ for i in range(1, 31, 1):
             print("Buzz")
         else:
             print(i)
-      git config – – global user.email “puraema8@gmail.com“
-
